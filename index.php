@@ -6,7 +6,7 @@
            
             <div class="row">
                 <div class="col-11 offset-1">
-                    <h2 class="wh-border">TRY NEW OUR SERVICES</h2>
+                    <h2 class="wh-border">TRY OUR SERVICES</h2>
                 </div>
             </div>
             <div class="row justify-content-center">
